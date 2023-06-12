@@ -1,0 +1,10 @@
+* crypto-shortcuts
+
+Collection of common cryptography functions
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/crypto-shortcuts.git   |
+| commit  | b8907e2  |
+| systems | crypto-shortcuts |
+|---------+-------------------------------------------|
+
