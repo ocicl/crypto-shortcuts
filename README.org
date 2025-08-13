@@ -4,6 +4,6 @@ Collection of common cryptography functions
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/Shinmera/crypto-shortcuts.git |
-| commit  | e3df536                                              |
+| commit  | 62485c9                                              |
 | systems | crypto-shortcuts                                     |
 |---------+------------------------------------------------------|
