@@ -6,4 +6,4 @@ Collection of common cryptography functions
 | source  | git:https://codeberg.org/shinmera/crypto-shortcuts.git |
 | commit  | 9b77282                                              |
 | systems | crypto-shortcuts                                     |
-|---------+------------------------------------------------------|
+|---------+------------------------------------------------------| 
